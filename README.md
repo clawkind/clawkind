@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="750" height="500" src="https://files.catbox.moe/kmxybd.png">
+  <img width="600" height="395" src="https://files.catbox.moe/kmxybd.png">
 </p>
 <p align="center">
 ponytown　 ༏ᓯྀ 　danganronpa + homestuck　 ┈
@@ -8,4 +8,4 @@ ponytown　 ༏ᓯྀ 　danganronpa + homestuck　 ┈
     <p align="center">
 do not copy!　 ★　 seventeen + bpdisabled　 ⊃
 <p align="center">
-<img width="500" height="175" src="https://files.catbox.moe/57mmn1.png">
+<img width="400" height="125" src="https://files.catbox.moe/57mmn1.png">
