@@ -8,4 +8,4 @@
 
 ![](https://files.catbox.moe/mpm9vu.png)
 
-![](https://komarev.com/ghpvc/?username=tipsyCatnip&color=612CC5) ![]()
+![](https://komarev.com/ghpvc/?username=tipsyCatnip&color=2611ae) ![]()
